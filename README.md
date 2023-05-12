@@ -6,6 +6,6 @@ To enhance security and user privacy, the application employs various techniques
 This full-stack application not only prioritizes security but also focuses on delivering a smooth and efficient user experience. By combining the capabilities of React.js and JavaScript, it enables seamless communication between the frontend and backend, facilitating efficient data transfer to and from AWS Cloud servers.
 <br>
 <div align="center">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="100" height="100"/> </a>
 </div>
 </body>
